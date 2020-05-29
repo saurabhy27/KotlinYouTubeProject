@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin YouTube Project</string>
+    <string name="GOOGLE_API_KEY">AIzaSyBe0ixgSyNC1C5y8rU8XcnkqoMbqgqGxIM</string>
+</resources>
